@@ -1,3 +1,5 @@
 #body::-webkit-scrollbar { 
            display: none; 
           }
+
+body {color:red !important;}
